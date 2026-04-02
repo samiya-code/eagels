@@ -12,7 +12,7 @@ const rankingRoutes = require('./routes/ranking');
 
 const app = express();
 
-// Connect to database
+// Connect to database ihfioehnklijfiojo
 connectDB();
 
 // Security middleware
